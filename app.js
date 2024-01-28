@@ -8,5 +8,5 @@ app.get('/', (req,res)=> {
 
 //Port to run application
 app.listen(3300), () => {
-    console.log("server is running on port 3300clear")
+    console.log("server is running on port 3300")
 };
